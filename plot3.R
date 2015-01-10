@@ -1,4 +1,4 @@
-## File to Read the data from the txt 
+## Function to Read the data from the txt file 10/01/2015
 
 readFile<-function(filename) {
         
